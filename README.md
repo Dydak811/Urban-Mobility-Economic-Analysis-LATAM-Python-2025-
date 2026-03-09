@@ -1,7 +1,7 @@
 #🚦 Urban-Mobility-Economic-Analysis-LATAM-Python-2025-
 
 
-![Python Pandas Analysis](https://images.unsplash.com/photo-1509228468518-180dd4864904)
+![Python Pandas Analysis](https://docs.servicestack.net/jupyter-notebooks-python)
 
 ## 📌 Project Overview
 
